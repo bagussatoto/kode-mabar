@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/project coding/.FP ANSI/bacakode-topup-rn/bacakode-topup-rn/android",
-      "program": "d:/project coding/.FP ANSI/bacakode-topup-rn/bacakode-topup-rn/android/build/Debug/outDebug",
+      "cwd": "d:/project coding/.FP ANSI/bacakode-topup-rn/bacakode-topup-rn/android/app/src/main/assets",
+      "program": "d:/project coding/.FP ANSI/bacakode-topup-rn/bacakode-topup-rn/android/app/src/main/assets/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
