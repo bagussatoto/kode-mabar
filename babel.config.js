@@ -6,12 +6,3 @@ module.exports = {
 
 
 
-// NSDVNLSDNBLISDBSBIJHJEOJGEKGJ;LJAS;LSJG;LAJGPOQ  JESJGPOJEGPOJEPOGJEPJAmfljb;ojhpos
-///jgjpewjgpoewjgpoejwpogjewp hneihgiejgewjgoewjgoewjogjwoejgpowjpoewogjpw
-//jpohjewjpojewpojewgjewjgewjjjejpojewphjpehawwgha  ahghfwhgo///\
-///djasfhqwoaghoiwhjgoihwhoiwhoihqwhtgwqhgihwqoigh
-//egjpqwjgpoqjwgpojqwpogjwpoqgjjepjgpowjgpqjwgp
-//jepgjpojwgpowjgpowjpogjwpojpqwdfjbpsjpds/
-//jsdpjpesdjghpsjphjdspojhdposjhdsjpohjsdpj
-//jdspojhposdjhdsjhspjpjspohj
-//main

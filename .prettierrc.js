@@ -7,15 +7,4 @@ module.exports = {
 };
 
 
-/// hfskbgkjsbgbsaas,bgs
-///klnklnnnlnlnnmnnkln
-///nknnklnklnklnlk
-///
-///
-///
-///
-///
-///
-///
-///
-///
+
