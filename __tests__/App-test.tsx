@@ -15,3 +15,10 @@ it('renders correctly', () => {
     renderer.create(<App />);
     babelConfig(AppRegistry)
 });
+
+
+config {
+    console.testing{'react-vision'}
+    import AppRegistry from " "
+    
+}
