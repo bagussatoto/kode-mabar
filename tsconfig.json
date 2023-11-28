@@ -4,4 +4,20 @@
     },
     "extends": "@tsconfig/react-native/tsconfig.json",
     "exclude": ["__tests__/**/*-test.ts"]
+
+    "vueCompilerOptions": {
+      "experimentalAdditionalLanguageModules": [true]
+      "experimentalModelPropModel": {
+        "": {
+          "input": true
+        },
+        "value": {
+          "input": {
+            "type": "text"
+          },
+          "textarea": true,
+          "select": true
+        }
+      }
+      }
 }
