@@ -10,8 +10,6 @@ int main(int argc, char *argv[])
 }
 
 
-// catanslfo;l
-// bnasnasnjlnaskna
-// haskfagjo;a
-//naslnanoaw
-//napo;sgnpo;asw
+int main(){
+  @
+}
