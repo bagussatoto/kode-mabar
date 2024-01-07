@@ -8,6 +8,13 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
+<img align="center" alt="mabarin" src="https://github.com/bagussatoto/kode-mabar/assets/87259393/f0cf9029-2aa8-4d27-a983-885d01d2ce0b">
+
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
  ## ✅ About 
  > ### Aplikasi Baca Kode. merupakan aplikasi platform mobile untuk Top Up game
 
